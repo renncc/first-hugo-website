@@ -54,6 +54,10 @@ googleAnalytics = ""
   name = "Get in touch"
   url = "contact/"
 
+  [[params.navlinks]]
+  name = "Post_test"
+  url = "post/"
+
   [params.social]
   facebook      = "https://www.facebook.com/chingchia.renn"
   email         = "ching.chia.renn@gmail.com"
