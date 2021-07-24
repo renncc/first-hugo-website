@@ -1,5 +1,5 @@
 +++
-image = "img/ching-chia_renn.jpg"
+image = "img/portfolio/gravity-paper.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Name of the work 7"

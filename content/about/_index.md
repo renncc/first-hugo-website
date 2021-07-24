@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 
-![](first_hugo_website\img\IMG_337.jpg)
+![](/img/me/IMG_337.jpg)
 
 哈囉！我是任敬葭
 
