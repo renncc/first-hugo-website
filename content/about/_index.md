@@ -6,8 +6,6 @@ title = "About me"
 
 ![](/img/me/IMG_337.jpg)
 
-哈囉！我是任敬葭
-
 Hi! I'm Ching-Chia Renn.
 
 #### Education
