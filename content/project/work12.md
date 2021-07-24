@@ -1,10 +1,10 @@
 +++
-image = ""
-showonlyimage = true
 draft = false
-date = "2016-11-05T19:53:42+05:30"
+image = ""
+showonlyimage = false
+date = "2016-11-05T20:23:59+05:30"
 title = "Item without image"
-weight = 5
+weight = 12
 +++
 
 under construction...
@@ -24,4 +24,4 @@ under construction...
 * under construction...
 * under construction...
 
-under construction...  
+under construction...

@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 
-![](/img/me/IMG_337.jpg)
+![](/img/me/myself.jpg)
 
 Hi! I'm Ching-Chia Renn.
 
