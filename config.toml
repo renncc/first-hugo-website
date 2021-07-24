@@ -1,5 +1,5 @@
 baseurl = "https://renncc.github.io/"
-title = "Ching-Chia portfolio"
+title = "Ching-Chia Renn"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "zh-tw"
 # Enable comments by entering your Disqus shortname
@@ -10,12 +10,12 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "blue"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2021 Ching-Chia Renn"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Hi I'm Ching-Chia Renn. I am a interdisciplinary designer. Love to learn new things in the area of Architecture, Art, Mechnical Engineering, Interaction Design, and Industrial Design.",
+    "Currently based in Taiwan."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "ching.chia.renn@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -55,14 +55,11 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
+  facebook      = "https://www.facebook.com/chingchia.renn"
+  email         = "ching.chia.renn@gmail.com"
   twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
+  linkedin      = "https://www.linkedin.com/in/ching-chia-renn-a85285159/"
   instagram     = "full profile url in instagram"
   github        = "full profile url in github"
   gitlab        = "full profile url in gitlab"
   youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
